@@ -1,1 +1,1 @@
-Este projeto foi desenvolvido como parte do curso de Lógica e Algoritmos na DIO, sendo um simulador da progressão de nível de um herói com base na quantidade de XP.
+Este projeto foi desenvolvido como parte do curso de Lógica e Algoritmos na DIO, sendo um simulador da 88progressão de nível88 de um herói com base na quantidade de XP, uma calculadora recebe a quantidade de vitórias e derrotas de um jogador e retorna seu **saldo** e o **nível88 e um simulador de diferentes heróis e diferentes poderes, com nome, idade e tipo.
