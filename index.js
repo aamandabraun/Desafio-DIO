@@ -1,10 +1,9 @@
-// Declaração das variáveis
-let nomeHeroi = "AmandaBlade"; // você pode alterar para o nome que quiser
-let xp = 7400; // experimente mudar esse valor para testar os outros níveis
+let nomeHeroi = "AmandaBlade";
+let xp = 7400; 
 
 let nivel = "";
 
-// Estrutura de decisão baseada na XP
+
 if (xp < 1000) {
   nivel = "Ferro";
 } else if (xp >= 1001 && xp <= 2000) {
@@ -23,5 +22,5 @@ if (xp < 1000) {
   nivel = "Radiante";
 }
 
-// Mensagem final
+
 console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivel}`);
